@@ -1,0 +1,16 @@
+﻿  Line.cpp
+  OtherFunctions.cpp
+  Point.cpp
+  Task1.cpp
+  Task2.cpp
+e:\сергей\visual studio проекты\2 курс\4 семестр\курсовая\курсовая\task2.cpp(25): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Test.cpp
+  Vector.cpp
+  otrezok.cpp
+  Курсовая.cpp
+  Создание кода
+  3 of 395 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Курсовая.vcxproj -> E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\Курсовая\Release\Курсовая.exe
